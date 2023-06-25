@@ -3,12 +3,7 @@
  Queries: Sakila (Core)
 
 ## Assignment:
-- Create a new repository and notebook for this assignment.
-- Using the Sakila database, complete the below queries with Python in your Jupyter Notebook.
-      - You can use MySQL Workbench to test your queries and then copy and paste them into your notebook to perform with Pandas and SQLAlchemy.
-- You can get the Sakila database and ERD here (sakila-data.sql and sakila-db-model.png), please use these for reference.
-      - Tip: you can insert the ERD into your notebook in a Markdown cell using: "![png](IMAGE_URL_HERE)"
-      - Replace "IMAGE_URL_HERE" with the link to the ERD above.
+![png](https://assets.codingdojo.com/boomyeah/company_209/chapter_3569/handouts/chapter3569_5431_sakila-db-model.png)
 
 ## Queries
 1. What query would you run to get all the customers inside city_id = 312? Your query should return the customers' first name, last name, email, address, and city.
