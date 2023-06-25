@@ -1,4 +1,4 @@
-# data enrichment week 13 
+# Data Enrichment Course (Week 13) 
 ## Core Assignment #1 - Queries: Sakila (Core)
  Queries: Sakila (Core)
 
